@@ -1,0 +1,29 @@
+Ant Financial,541
+Bytedance,1588
+Uber,5479
+DiDi,26
+WeWork,1634
+Airbnb,3374
+JUUL,2945
+Lufax,84
+SpaceX,3821
+Stripe,1013
+Cainiao,102
+Kuaishou,75
+Paytm,3199
+Lyft,3970
+DJI,604
+Pinterest,2872
+Jiedaibao,10
+Grab,2218
+WeBank,10
+Coupang,10
+PingAn Health Insurance Tech,50
+Coinbase,517
+OneConnect,32
+Instacart,494
+JD Finance,677
+DoorDash,680
+Tokopedia,398
+Roivant Sciences,110
+Slack,1775

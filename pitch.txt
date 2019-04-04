@@ -1,0 +1,6 @@
+1. I am using Twitter's APIs to create twitter bot which will post comedic combinations of brand names and nouns to make social commentary about tech reporting and startup culture.
+2. No, I do not plan on having this project interact with other users or tweets.
+3. Yes, I will be tweeting content at regular intervals. There will be no direct interactions with users.
+4. This project will only post to Twitter. It will not show any Twitter data on any external website or app.
+
+A twitter bot that only posts content as tweets. Will post comedic combinations of brand names and nouns to make social commentary about tech reporting and startup culture.

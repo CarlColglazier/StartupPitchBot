@@ -1,0 +1,352 @@
+Ant Financial
+Bytedance
+Uber
+DiDi
+WeWork
+Airbnb
+JUUL Labs
+Lufax
+SpaceX
+Stripe
+Cainiao Network
+Kuaishou
+Paytm
+Lyft
+DJI
+Pinterest
+Jiedaibao
+Grab
+WeBank
+Coupang
+PingAn Health Insurance Tech
+Coinbase
+OneConnect
+Instacart
+JD Finance
+DoorDash
+Tokopedia
+Roivant Sciences
+Slack Technologies
+Go-Jek
+Tanium
+Lianjia
+Palantir Technologies
+Ola Cabs
+Homelink
+Robinhood
+Byju's
+Bluehole
+NIO
+OYO
+United Imaging Healthcare
+Magic Leap
+Zenefits
+Meizu
+BAIC BJEV
+Yello Mobile
+Nubank
+Peloton
+UBtech Robotics
+Niantic
+Opendoor
+Garena
+Shouqi Car Rental
+Credit Karma
+Swiggy
+Rubrik
+e-Shang Redwood
+Oscar Health
+SmileDirectClub
+Fanatics
+UiPath Inc.
+VIPKID
+Ali Music
+ContextLogic
+Jia.com
+LY.com
+Meili United Group
+Ping An Good Doctor
+Royole Corporation
+SoFi
+VANCL
+Wanda E-commerce
+Yixia Technology
+Affirm
+UnionPay Merchant Services
+Toast
+Plaid
+Ofo
+AmWINS Group
+Woowa Brothers
+Vice Media
+Confluent
+Cambricon
+Zomato
+Face++
+Qualtrics
+Zhihu
+Kingsoft Cloud
+Mozido
+Houzz
+Klarna
+Compass
+Babytree
+Taobao Movie
+Three Squirrels
+Applovin
+Beijing Weiying Technology
+Bird
+Deliveroo
+Domo
+Firstp2p
+Huimin.cn
+Meicai.cn
+Maoyan-Weiying
+Oxford Nanopore Technologies
+ReNew Power
+Sensetime
+SurveyMonkey
+Taopiaopiao
+Treveloka
+Trendy International Group
+Tubatu.com
+Youxinpai
+Paytm mall
+Avant
+Intarcia Therapeutics
+Yinlong Group
+Youxia Motors
+Sanpower Group
+Dfinity
+Prosper Marketplace
+Apus Group
+BenevolentAI
+Avito.ru
+Billdesk
+Ucommune
+Crystal Lagoons
+NantOmics
+Reddit
+Quora
+Sprinklr
+Zocdoc
+L&P Cosmetic
+23andMe
+Revolut
+Taihe Music Group
+Squarespace
+The Honest Company
+Delhivery
+AIWAYS
+Caocao Zhuanche
+BlaBlaCar
+Afiniti
+HeartFlow
+Chime
+Musigma
+Aihuishou
+Asana
+Spring Rain Software
+Douyu TV
+Lakala
+Ninebot
+Souche
+UCloud
+Tujia.com
+ZBJ.com
+Freshworks
+Snowflak Computing
+Letgo
+Hello Bike
+Suning Sports
+Tuandaiwang
+Koudai Gouwu
+C3 IoT
+Hike
+ETCP
+Kr Space
+Thumbtack
+PagerDuty
+10x Genomics
+Alisports
+Loji Logistics
+ezCater
+Iwjw
+Darktrace
+Big Basket\n
+Bitmain
+Byton
+EasyLife Financial Services
+Dada
+Warby Parker
+Bukalapak
+Postmates
+Viva Republica
+NetEase Cloud Music
+Doctolib
+Casper
+GitLab
+NetEase Youdao
+Luoji Siwei
+LimeBike
+Global Fashion Group
+ShopClues
+Airwallex
+Cloudflare
+InMobi
+Convoy
+Maimai
+Yanolja
+Branch Metrics
+Policy Bazaar
+Rent the Runway
+Udaan\n
+Vlocity
+Beibei
+OutSystems
+Chubao Technology
+Dt Dream
+DXY
+Futu Securities
+FXiaoKe
+Fangdd.com
+Fanli
+Huikedu Group
+Gusto
+Snapdeal
+Netskope
+iCarbonX
+Innovent Biologics
+iTutorGroup
+JFrog
+Jiangsu Zimi Technology
+Jollychic
+Quikr
+Lalamove
+Lamabang
+Luckin Coffee
+Mia.com
+Careem
+MissFresh
+Mobvoi
+Mofang Apartment
+Novogene
+QingCloud
+Seismic Software
+Smartmi
+Tongdun Technology
+Unisound
+Wacai.com
+WiFi Master Key
+CrowdStrike
+Womai
+Xiaozhu.com
+YT Global
+Yuanfudao
+Vox Media
+Yitu Technology
+Yidian Zixun
+Essential Products
+MindMaze
+Zhaogang.com
+Zhuanzhuan
+Zuoyebang
+17Zuoye
+GoGoVan
+Rubicon Global
+36Kr Media
+InVision
+58 Daojia
+Lookout Security
+TransferWise
+Kebam
+9fbank.com
+Udacity
+Canva
+LinkSure Network
+MedMen
+OrCam
+Improbable
+ThoughtSpot
+UST Global
+Symphony
+Taxify
+Klook
+One Medical
+Talkdesk
+Tresata
+AppDirect
+TripActions
+Nearmap
+Rappi
+Facebook
+Xiaomi
+Alibaba
+Meituan-Dianping
+CATL
+Snap Inc
+Tencent Music
+Adyen
+Pinduoduo
+Zynga
+DiDi
+Spotify
+Twitter
+Square
+Stemcentrx
+Groupon
+Ucar
+Zalando
+Lending Club
+Atlassian
+Legendary Entertainment
+Pure Storage
+Pivotal
+Skype
+Box
+GoPro
+Roku, Inc.
+AppDynamics
+Wayfair
+NantHealth
+Meitu
+Nutanix
+Mobileye
+Better Place
+MuleSoft
+Jet.com
+LivingSocial
+WhatsApp
+HomeAway
+Jasper
+Sunrun
+Solstice
+Good Technology
+Fab
+Gilt Groupe
+Vonage
+Zulily
+Coupa
+LinkedIn
+Twilio
+SimpliVity
+Musigma
+Shopify
+AirWatch
+Lynda.com
+New Relic
+Dollar Shave Club
+Quotient Technology
+Skyscanner
+Souq.com
+Blue Apron
+musical.ly
+Stitch Fix
+Shazam
+Ring
+Mobike
+Ele.me
+IZettle
+Duo Security
+Bloom Energy
+Moderna Therapeutics
