@@ -27,3 +27,41 @@ DoorDash,680
 Tokopedia,398
 Roivant Sciences,110
 Slack,1775
+Go-Jek,572
+Tanium,141
+Lianjia,10
+Palantir Technologies,1330
+Ola Cabs,2165
+Homelink,10
+Robinhood,532
+Byju's,1216
+Bluehole,963
+NIO,755
+OYO,3017
+United Imaging Healthcare,10
+Magic Leap,463
+Zenefits,121
+Meizu,226
+BAIC BJEV,10
+Yello Mobile,10
+Nubank,2429
+Peloton,283
+UBtech Robotics,10
+Niantic,375
+Opendoor,20
+Facebook,23114
+Xiaomi,3778
+Alibaba,3799
+Meituan-Dianping,307
+CATL,5
+Snap Inc,4433
+Tencent Music,147
+Adyen,248
+Pinduoduo,191
+Zynga,581
+DiDi,554
+Spotify,4458
+Twitter,8483
+Square,323
+Stemcentrx,439
+Groupon,836
